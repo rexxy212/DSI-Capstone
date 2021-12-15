@@ -40,7 +40,7 @@ predicting whether review is legitimate or not based on the text.
 |**label**|*int*|shopee_reviews.csv|Rating of review.|
 |**text**|*object*|shopee_reviews.csv|Comment of review.|
 |**text_length**|*int*|shopee_reviews.csv|Number of words in the text.|
-|**real_review**|*object*|train.csv|Indicator of whether a review is legitimate.|
+|**real_review**|*int*|train.csv|Indicator of whether a review is legitimate.|
 
 # Credits
-Shopee Text Reviews [Source](https://www.kaggle.com/shymammoth/shopee-reviews)
+Shopee Text Reviews Data [Source](https://www.kaggle.com/shymammoth/shopee-reviews)
