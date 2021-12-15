@@ -27,7 +27,7 @@ reviews using Natural Language Processing (NLP) by analysing data from pulled
 from Shopee’s site.
 
 # Content
-1. Data Cleaning & Exploratory Data Analysis
+1. Data Cleaning & Exploratory Data Analysis (Data used can be retrieved from the Kaggle link below)
 2. Modeling
 
 # Conclusions
